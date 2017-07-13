@@ -1,0 +1,18 @@
+git clone (and then)
+git init (that will avoid all the troubles)
+npm install angular-material mdi
+
+npm install http-server -g
+
+
+http-server
+clear brower cache before reload
+
+Angular1 codes are space insentitive
+
+ng-app + ng-controller
+
+ng-controller: .module .controller
+
+.controller($scope)
+Clean chrome cache, exit git-bash, restart git-bash
